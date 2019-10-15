@@ -5,7 +5,7 @@ Porjet du jour : Création d'un petit jeu de combat du type Fortnite. Malgré de
 
 Le but : produire une version 1.0 , puis une version 2.0 un peu plus recherchée, pour conclure sur une version 3.0 (si possible ...). 
 
-##Version 1.0 : coder un combat entre 2 joueurs
+##Version 1.0 : coder un combat entre 2 joueurs##
 
 Voilà les bases d'un combat :
 1) 2 joueurs ;
